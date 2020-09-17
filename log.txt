@@ -1,0 +1,197 @@
+ServerSocket - accepting
+USERS: 2
+AfrlcZz-40
+user-1
+##########  HIGHSCORE ##########
+1. AfrlcZz-40
+2. user-1
+Neuer USER: Anonym
+3. Anonym-0
+4. Anonym-0
+ServerSocket - accepting
+USERS: 3
+AfrlcZz-40
+No stars ! Got new 0 fuer saved[USER:Anonym]
+Anonym-0
+user-1
+##########  HIGHSCORE ##########
+1. AfrlcZz-40
+2. user-1
+3. Anonym-0
+USERS: 3
+AfrlcZz-40
+Anonym-0
+user-1
+##########  HIGHSCORE ##########
+1. AfrlcZz-40
+2. user-1
+3. Anonym-0
+USERS: 3
+AfrlcZz-40
+Anonym-0
+user-1
+##########  HIGHSCORE ##########
+1. AfrlcZz-40
+2. user-1
+3. Anonym-0
+USERS: 3
+AfrlcZz-40
+Anonym-0
+user-1
+##########  HIGHSCORE ##########
+1. AfrlcZz-40
+2. user-1
+3. Anonym-0
+USERS: 3
+AfrlcZz-40
+Anonym-0
+user-1
+##########  HIGHSCORE ##########
+1. AfrlcZz-40
+2. user-1
+3. Anonym-0
+USERS: 3
+AfrlcZz-40
+Anonym-0
+user-1
+##########  HIGHSCORE ##########
+1. AfrlcZz-40
+2. user-1
+3. Anonym-0
+USERS: 3
+AfrlcZz-40
+Anonym-0
+user-1
+##########  HIGHSCORE ##########
+1. AfrlcZz-40
+2. user-1
+3. Anonym-0
+USERS: 3
+AfrlcZz-40
+Anonym-0
+user-1
+##########  HIGHSCORE ##########
+1. AfrlcZz-40
+2. user-1
+3. Anonym-0
+USERS: 3
+AfrlcZz-40
+Anonym-0
+user-1
+##########  HIGHSCORE ##########
+1. AfrlcZz-40
+2. user-1
+3. Anonym-0
+USERS: 3
+AfrlcZz-40
+Anonym-0
+user-1
+##########  HIGHSCORE ##########
+1. AfrlcZz-40
+2. user-1
+3. Anonym-0
+USERS: 3
+AfrlcZz-40
+Anonym-0
+user-1
+##########  HIGHSCORE ##########
+1. AfrlcZz-40
+2. user-1
+3. Anonym-0
+USERS: 3
+AfrlcZz-40
+Anonym-0
+user-1
+##########  HIGHSCORE ##########
+1. AfrlcZz-40
+2. user-1
+3. Anonym-0
+USERS: 3
+AfrlcZz-40
+Anonym-0
+user-1
+##########  HIGHSCORE ##########
+1. AfrlcZz-40
+2. user-1
+3. Anonym-0
+USERS: 3
+AfrlcZz-40
+Anonym-0
+user-1
+##########  HIGHSCORE ##########
+1. AfrlcZz-40
+2. user-1
+3. Anonym-0
+USERS: 3
+AfrlcZz-40
+Anonym-0
+user-1
+##########  HIGHSCORE ##########
+1. AfrlcZz-40
+2. user-1
+3. Anonym-0
+USERS: 3
+AfrlcZz-40
+Anonym-0
+user-1
+##########  HIGHSCORE ##########
+1. AfrlcZz-40
+2. user-1
+3. Anonym-0
+USERS: 3
+AfrlcZz-40
+Anonym-0
+user-1
+##########  HIGHSCORE ##########
+1. AfrlcZz-40
+2. user-1
+3. Anonym-0
+USERS: 3
+AfrlcZz-40
+Anonym-0
+user-1
+##########  HIGHSCORE ##########
+1. AfrlcZz-40
+2. user-1
+3. Anonym-0
+USERS: 3
+AfrlcZz-40
+Anonym-0
+user-1
+##########  HIGHSCORE ##########
+1. AfrlcZz-40
+2. user-1
+3. Anonym-0
+USERS: 3
+AfrlcZz-40
+Anonym-0
+user-1
+##########  HIGHSCORE ##########
+1. AfrlcZz-40
+2. user-1
+3. Anonym-0
+USERS: 3
+AfrlcZz-40
+Anonym-0
+user-1
+##########  HIGHSCORE ##########
+1. AfrlcZz-40
+2. user-1
+3. Anonym-0
+USERS: 3
+AfrlcZz-40
+Anonym-0
+user-1
+##########  HIGHSCORE ##########
+1. AfrlcZz-40
+2. user-1
+3. Anonym-0
+ServerSocket - accepting
+USERS: 3
+AfrlcZz-40
+Anonym-0
+user-1
+##########  HIGHSCORE ##########
+1. AfrlcZz-40
+2. user-1
+3. Anonym-0

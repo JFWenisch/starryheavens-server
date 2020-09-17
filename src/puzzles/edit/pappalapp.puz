@@ -1,0 +1,319 @@
+<severeLobster.backend.spiel.Spiel>
+  <resourceManager>
+    <propertyfile>
+      <property name="exit.application.beenden.option" value="Beenden"/>
+      <property name="hilfe.kontakt" value="Kontakt"/>
+      <property name="check.puzzle" value="Lösungsweg prüfen..."/>
+      <property name="load.dialog.extension.description" value="Gespeichertes Spiel (*.sav)"/>
+      <property name="language.german" value="Deutsch"/>
+      <property name="win.back.to.main.menu" value="Zurück ins Hauptmenü"/>
+      <property name="online.archive.count.text" value="Puzzles im Online-Archiv verfügbar"/>
+      <property name="spielfeldgroesse.breite" value="Breite:"/>
+      <property name="mainFrame.freigabe.speichern" value="Puzzle bitte erst speichern!"/>
+      <property name="puzzle.not.unique" value="Das Puzzle ist nicht eindeutig!"/>
+      <property name="mainFrame.freigabe.freigegeben" value="Puzzle wurde erfolgreich zum Spielen freigegeben!"/>
+      <property name="spielfeldgroesse.error.title" value="Ungültige Spielfeldgröße"/>
+      <property name="menu.multiplayer" value="Mehrspieler"/>
+      <property name="mainFrame.upload.title" value="Puzzle uploaden?"/>
+      <property name="exception.simple.icon.factory.cannot.load.all.pictures" value="SimpleIconFactory kann nicht alle Bilder laden"/>
+      <property name="exception.invalid.size" value="Ungültige Größenangabe:"/>
+      <property name="play" value="Spielen"/>
+      <property name="exception.playing.field.is.null" value="Spielfeld ist null"/>
+      <property name="hilfe.user.manual" value="Anleitung"/>
+      <property name="backend.pfeil" value="Pfeil:"/>
+      <property name="puzzle.save.dialog.text" value="Speichern"/>
+      <property name="load.dialog.text" value="Laden"/>
+      <property name="tracking.an.aus.text" value="Tracking-Modus"/>
+      <property name="stars" value="Sterne:"/>
+      <property name="hilfe.about" value="About"/>
+      <property name="schwer.difficulty" value="Schwer"/>
+      <property name="try" value="Versuche:"/>
+      <property name="online.archive.no.connection.title" value="Keine Verbindung"/>
+      <property name="seconds" value="Sek."/>
+      <property name="tracking.backToMistake" value="Zurück zum Fehler"/>
+      <property name="mainFrame.freigabe.freigegeben.title" value="Puzzle nun für Spielmodus verfügbar!"/>
+      <property name="neues.spiel.text" value="Neues Spiel..."/>
+      <property name="start.own.game" value="Eigenes Spiel starten"/>
+      <property name="menu.singleplayer" value="Einzelspieler"/>
+      <property name="change.size.btn.text" value="&lt;html&gt;&lt;body&gt;Größe&lt;br&gt;ändern&lt;/body&gt;&lt;/html&gt;"/>
+      <property name="version" value="1.0"/>
+      <property name="language.english" value="Englisch"/>
+      <property name="editieren.menu.text" value="Editieren"/>
+      <property name="new.dialog.title" value="Neues Spiel wählen"/>
+      <property name="change.avatar.title" value="Avatar auswählen"/>
+      <property name="puzzle.load.dialog.invalid.format" value="Ungültiges Spielformat"/>
+      <property name="change.avatar.text" value="Bitte wählen Sie den gewünschten Avatar aus:"/>
+      <property name="exception.invalid.size.column" value="Spaltenanzahl:"/>
+      <property name="backend.spiel.not.allowed.size" value="Nicht erlaubte Breite/Höhe"/>
+      <property name="actual.difficulty" value="Schwierigkeit:"/>
+      <property name="win.start.new.game" value="Neues Spiel starten..."/>
+      <property name="start.new.game" value="Neues Spiel starten"/>
+      <property name="back.to.main.menu" value="Zurück zum Hauptmenü"/>
+      <property name="mainFrame.freigabe.failed" value="Puzzle konnte nicht freigegeben werden, da es nicht lösbar ist."/>
+      <property name="change.language.warning.text" value="Applkation muss neu gestartet werden, ungesicherte Dateien gehen verloren. Fortfahren?"/>
+      <property name="star.count" value="Anzahl Sterne:"/>
+      <property name="mainFrame.mail.error" value="Kein E-Mail Client gefunden!"/>
+      <property name="start.campaign" value="Kampagne starten"/>
+      <property name="spielfeldgroesse.hoehe" value="Höhe:"/>
+      <property name="save.dialog.title" value="Spiel speichern"/>
+      <property name="mittel.difficulty" value="Mittel"/>
+      <property name="spiel.menu.text" value="Spielen"/>
+      <property name="new.dialog.difficulty" value="Schwierigkeitsgrad:"/>
+      <property name="spielfeldgroesse.error" value="Die angegebene Spielfeldgröße ist nicht gültig!"/>
+      <property name="optionen.menu.text" value="Optionen"/>
+      <property name="mainFrame.doku.error" value="Anleitung konnte nicht geöffnet werden!"/>
+      <property name="difficulty" value="Schwierigkeitsgrad:"/>
+      <property name="win.title" value="Herzlichen Glückwunsch!"/>
+      <property name="backend.stern" value="Stern"/>
+      <property name="mainFrame.freigabe.speichern.title" value="Puzzle speichern!"/>
+      <property name="optionen.fadenkreuz" value="Fadenkreuz"/>
+      <property name="time" value="Zeit:"/>
+      <property name="fields" value="Felder:"/>
+      <property name="change.language.text" value="Bitte wählen Sie die gewünschte Sprache aus"/>
+      <property name="exception.cant.load.all.icons" value="IconFactory kann nicht alle Bilder laden!"/>
+      <property name="mainFrame.upload.body" value="Möchten Sie das Puzzle zusätzlich ins Online-Archiv uploaden?"/>
+      <property name="optionen.sprache" value="Sprache ändern..."/>
+      <property name="exit.application.question" value="Möchten Sie das Spiel wirklich beenden?"/>
+      <property name="puzzle.erstellen" value="Puzzle erstellen..."/>
+      <property name="mainFrame.mail.error.title" value="Fehler"/>
+      <property name="puzzle.solvable" value="Das Puzzle ist lösbar!"/>
+      <property name="load.dialog.difficulty" value="Schwierigkeitsgrad:"/>
+      <property name="menu.create" value="Erstellen"/>
+      <property name="mainFrame.freigabe.failed.title" value="Fehler bei der Freigabe des Puzzles"/>
+      <property name="puzzle.freigeben" value="Puzzle freigeben"/>
+      <property name="save.dialog.text" value="Speichern"/>
+      <property name="exception.size.of.playing.field.invalid" value="Größenangabe des Spielfeldes ist ungültig!"/>
+      <property name="tracking.setPoint" value="Setze Trackingpunkt"/>
+      <property name="mainFrame.doku.error.title" value="Fehler"/>
+      <property name="save.puzzle" value="Puzzle speichern"/>
+      <property name="load.dialog.title" value="Spiel laden"/>
+      <property name="quit" value="Beenden"/>
+      <property name="tracking.backToLastTrackingPoint" value="Zurück zum letzten Trackingpunkt"/>
+      <property name="online.archive" value="Online Archiv"/>
+      <property name="backend.spiel.given.coordinate" value="Die uebergebenen Koordinaten"/>
+      <property name="new.dialog.extension.description" value="Spieldatei (*.puz)"/>
+      <property name="puzzle.save.dialog.extension.description" value="Gespeichertes Puzzle (*.puz)"/>
+      <property name="puzzle.save.dialog.title" value="Puzzle speichern"/>
+      <property name="exit.application.abbrechen.option" value="Abbrechen"/>
+      <property name="splashscreen.text.2" value="berechnet..."/>
+      <property name="splashscreen.text.1" value="Sternenkonstellation wird für"/>
+      <property name="load.dialog.invalid.format" value="Ungültiges Spielformat"/>
+      <property name="exception.invalid.size.row" value="Zeilenanzahl:"/>
+      <property name="online.archive.download.success.title" value="Das Puzzle wurde erfolgreich heruntergeladen!"/>
+      <property name="hilfe.menu.text" value="Hilfe"/>
+      <property name="puzzle.not.unique.solvable" value="Das Puzzle ist nicht eindeutig lösbar!"/>
+      <property name="online.archive.already.there.title" value="Puzzle bereits vorhanden"/>
+      <property name="puzzle.edit.title" value="Puzzle-Editor"/>
+      <property name="mainFrame.freigabe.not.unique.failed" value="Puzzle konnte nicht freigegeben werden, da es nicht eindeutig lösbar ist."/>
+      <property name="not.available" value="Nicht verfügbar"/>
+      <property name="leicht.difficulty" value="Leicht"/>
+      <property name="puzzle.not.solvable" value="Das Puzzle ist nicht lösbar!"/>
+      <property name="create.new.puzzle" value="Neues Puzzel erstellen"/>
+      <property name="exit.text" value="Beenden"/>
+      <property name="save.as.text" value="Spiel speichern unter..."/>
+      <property name="about.close" value="Schließen"/>
+      <property name="save.as.puzzle" value="Puzzle speichern unter..."/>
+      <property name="save.dialog.extension.description" value="Gespeichertes Spiel (*.sav)"/>
+      <property name="change.language.warning.title" value="Applikation muss neu gestartet werden"/>
+      <property name="mainFrame.title" value="Sternenhimmel Gruppe 3"/>
+      <property name="new.dialog.text" value="Auswählen"/>
+      <property name="load.text" value="Spiel fortsetzen..."/>
+      <property name="puzzle.load.dialog.title" value="Puzzle laden"/>
+      <property name="puzzle.load.dialog.text" value="Laden"/>
+      <property name="backend.spiel.is.null" value="Spiel ist null"/>
+      <property name="exit.application.title" value="Beenden bestätigen"/>
+      <property name="optionen.avatar" value="Avatar ändern..."/>
+      <property name="download.puzzles" value="Puzzles herunterladen..."/>
+      <property name="online.archive.download.success.body" value="Puzzle heruntergeladen"/>
+      <property name="online.archive.no.connection.body" value="Es konnte keine Verbindung zum Online-Archiv hergestellt werden!"/>
+      <property name="win.quit" value="Beenden"/>
+      <property name="check.loesungsweg.btn.text" value="&lt;html&gt;&lt;body&gt;Lösungsweg&lt;br&gt;überprüfen&lt;/body&gt;&lt;/html&gt;"/>
+      <property name="backend.moeglicher.stern" value="Moeglicher Stern"/>
+      <property name="save.text" value="Spiel speichern"/>
+      <property name="extras.menu.text" value="Extras"/>
+      <property name="exception.cant.delete.gamefile" value="Die Spieldatei konnte nicht gelöscht werden!"/>
+      <property name="online.archive.already.there.body" value="Das Puzzle mit diesem Namen wurde bereits runtergeladen!"/>
+      <property name="menu.settings" value="Optionen"/>
+      <property name="spielfeldgroesse.input.size" value="Bitte geben Sie die Spielfeldgröße an:"/>
+      <property name="backend.spiel.outside.playing.field" value="sind außerhalb des Spielfeldes."/>
+      <property name="search.online.archive" value="Online Archiv durchsuchen"/>
+      <property name="change.language.title" value="Sprache auswählen"/>
+      <property name="load.puzzle" value="Puzzle laden..."/>
+      <property name="puzzle.load.dialog.extension.description" value="Gespeichertes Puzzle (*.puz)"/>
+    </propertyfile>
+    <userpropertyFile>
+      <property name="Troptrop" value="12"/>
+      <property name="Primabella" value="24964"/>
+      <property name="user.language" value="de"/>
+      <property name="alpha" value="1993"/>
+      <property name="Eaaaaaasy2" value="937"/>
+      <property name="user.avatar" value="spielinfo_m3.jpg"/>
+      <property name="test" value="15993"/>
+      <property name="alfons" value="12"/>
+      <property name="low" value="3999"/>
+      <property name="Standardspiel01" value="10"/>
+      <property name="oha" value="12"/>
+      <property name="chill" value="12"/>
+      <property name="test6" value="3000"/>
+      <property name="user.name" value="AfrlcZz"/>
+      <property name="521" value="12"/>
+      <property name="Eaaaaaasy" value="9000"/>
+    </userpropertyFile>
+    <language>de</language>
+  </resourceManager>
+  <listeners serialization="custom">
+    <javax.swing.event.EventListenerList>
+      <default/>
+      <null/>
+    </javax.swing.event.EventListenerList>
+  </listeners>
+  <score>
+    <elementData>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </elementData>
+  </score>
+  <currentSpielfeld>
+    <resourceManager reference="../../resourceManager"/>
+    <listeners serialization="custom">
+      <javax.swing.event.EventListenerList>
+        <default/>
+        <string>severeLobster.backend.spiel.ISpielfeldListener</string>
+        <severeLobster.backend.spiel.Spiel_-InnerSpielfeldListener>
+          <outer-class reference="../../../../.."/>
+        </severeLobster.backend.spiel.Spiel_-InnerSpielfeldListener>
+        <null/>
+      </javax.swing.event.EventListenerList>
+    </listeners>
+    <realSteine>
+      <severeLobster.backend.spiel.Spielstein-array>
+        <severeLobster.backend.spiel.KeinStein/>
+        <severeLobster.backend.spiel.KeinStein reference="../severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.KeinStein reference="../severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.KeinStein reference="../severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.Pfeil>
+          <resourceManager reference="../../../../../resourceManager"/>
+          <pfeilrichtung>NORDOST</pfeilrichtung>
+        </severeLobster.backend.spiel.Pfeil>
+      </severeLobster.backend.spiel.Spielstein-array>
+      <severeLobster.backend.spiel.Spielstein-array>
+        <severeLobster.backend.spiel.Pfeil>
+          <resourceManager reference="../../../../../resourceManager"/>
+          <pfeilrichtung>SUED</pfeilrichtung>
+        </severeLobster.backend.spiel.Pfeil>
+        <severeLobster.backend.spiel.Stern>
+          <resourceManager reference="../../../../../resourceManager"/>
+        </severeLobster.backend.spiel.Stern>
+        <severeLobster.backend.spiel.KeinStein reference="../../severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.KeinStein/>
+        <severeLobster.backend.spiel.Stern>
+          <resourceManager reference="../../../../../resourceManager"/>
+        </severeLobster.backend.spiel.Stern>
+      </severeLobster.backend.spiel.Spielstein-array>
+      <severeLobster.backend.spiel.Spielstein-array>
+        <severeLobster.backend.spiel.KeinStein reference="../../severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.KeinStein reference="../../severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.KeinStein reference="../../severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.KeinStein reference="../../severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.KeinStein reference="../../severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+      </severeLobster.backend.spiel.Spielstein-array>
+      <severeLobster.backend.spiel.Spielstein-array>
+        <severeLobster.backend.spiel.KeinStein reference="../../severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.KeinStein reference="../../severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.KeinStein/>
+        <severeLobster.backend.spiel.KeinStein reference="../../severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.KeinStein reference="../../severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+      </severeLobster.backend.spiel.Spielstein-array>
+      <severeLobster.backend.spiel.Spielstein-array>
+        <severeLobster.backend.spiel.Stern>
+          <resourceManager reference="../../../../../resourceManager"/>
+        </severeLobster.backend.spiel.Stern>
+        <severeLobster.backend.spiel.Pfeil>
+          <resourceManager reference="../../../../../resourceManager"/>
+          <pfeilrichtung>WEST</pfeilrichtung>
+        </severeLobster.backend.spiel.Pfeil>
+        <severeLobster.backend.spiel.KeinStein reference="../../severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.KeinStein reference="../../severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.KeinStein reference="../../severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+      </severeLobster.backend.spiel.Spielstein-array>
+    </realSteine>
+    <visibleSteine>
+      <severeLobster.backend.spiel.Spielstein-array>
+        <severeLobster.backend.spiel.KeinStein reference="../../../realSteine/severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.KeinStein reference="../../../realSteine/severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.KeinStein reference="../../../realSteine/severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.KeinStein reference="../../../realSteine/severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.Pfeil reference="../../../realSteine/severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.Pfeil"/>
+      </severeLobster.backend.spiel.Spielstein-array>
+      <severeLobster.backend.spiel.Spielstein-array>
+        <severeLobster.backend.spiel.Pfeil reference="../../../realSteine/severeLobster.backend.spiel.Spielstein-array[2]/severeLobster.backend.spiel.Pfeil"/>
+        <severeLobster.backend.spiel.KeinStein reference="../../../realSteine/severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.KeinStein reference="../../../realSteine/severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.KeinStein reference="../../../realSteine/severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.KeinStein reference="../../../realSteine/severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+      </severeLobster.backend.spiel.Spielstein-array>
+      <severeLobster.backend.spiel.Spielstein-array>
+        <severeLobster.backend.spiel.KeinStein reference="../../../realSteine/severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.KeinStein reference="../../../realSteine/severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.KeinStein reference="../../../realSteine/severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.KeinStein reference="../../../realSteine/severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.KeinStein reference="../../../realSteine/severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+      </severeLobster.backend.spiel.Spielstein-array>
+      <severeLobster.backend.spiel.Spielstein-array>
+        <severeLobster.backend.spiel.KeinStein reference="../../../realSteine/severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.KeinStein reference="../../../realSteine/severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.KeinStein reference="../../../realSteine/severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.KeinStein reference="../../../realSteine/severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.KeinStein reference="../../../realSteine/severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+      </severeLobster.backend.spiel.Spielstein-array>
+      <severeLobster.backend.spiel.Spielstein-array>
+        <severeLobster.backend.spiel.KeinStein reference="../../../realSteine/severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.Pfeil reference="../../../realSteine/severeLobster.backend.spiel.Spielstein-array[5]/severeLobster.backend.spiel.Pfeil"/>
+        <severeLobster.backend.spiel.KeinStein reference="../../../realSteine/severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.KeinStein reference="../../../realSteine/severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+        <severeLobster.backend.spiel.KeinStein reference="../../../realSteine/severeLobster.backend.spiel.Spielstein-array/severeLobster.backend.spiel.KeinStein"/>
+      </severeLobster.backend.spiel.Spielstein-array>
+    </visibleSteine>
+    <spielmodus>EDITIEREN</spielmodus>
+  </currentSpielfeld>
+  <innerSpielfeldListener class="severeLobster.backend.spiel.Spiel$InnerSpielfeldListener" reference="../currentSpielfeld/listeners/javax.swing.event.EventListenerList/severeLobster.backend.spiel.Spiel$InnerSpielfeldListener"/>
+  <saveName>pappalapp</saveName>
+  <trackingPunkte serialization="custom">
+    <unserializable-parents/>
+    <vector>
+      <default>
+        <capacityIncrement>0</capacityIncrement>
+        <elementCount>0</elementCount>
+        <elementData>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+        </elementData>
+      </default>
+    </vector>
+  </trackingPunkte>
+  <anzahlZuege>0</anzahlZuege>
+  <iHighscore>0</iHighscore>
+  <spielStoppUhr>
+    <summeDerBisherigenMessungen>0</summeDerBisherigenMessungen>
+    <aktuelleMessungAbsoluterStartZeitpunkt>0</aktuelleMessungAbsoluterStartZeitpunkt>
+    <messungLaeuft>false</messungLaeuft>
+  </spielStoppUhr>
+  <spielZeit>--</spielZeit>
+  <isSolo>false</isSolo>
+</severeLobster.backend.spiel.Spiel>
